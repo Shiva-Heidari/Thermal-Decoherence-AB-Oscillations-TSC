@@ -13,7 +13,7 @@ This project analyzes how thermal fluctuations suppress quantum coherence in a h
 ## Results
 - Analytic formula:  
   $$ A(T) \sim \left(\frac{T}{T_\phi}\right)^\alpha e^{-\alpha T/T_\phi} $$
-- Interaction strength encoded in \( \alpha = \frac{1}{2}(K + \frac{1}{K}) - 1 \)
+- Interaction strength encoded in \\( \alpha = \frac{1}{2}(K + \frac{1}{K}) - 1 \\)
 - AB interference is preserved at \( T \to 0 \), destroyed at high \( T \)
 
 ## Project Structure
