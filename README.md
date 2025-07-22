@@ -24,20 +24,12 @@ A(T) \propto
 \end{cases}
 \$$
 
-- \\( \alpha = \frac{1}{2} \left(K + \frac{1}{K}\right) - 1 \\)
-- \\( T_\phi = \dfrac{\hbar v}{k_B L} \\)
-- \( \ell_\phi(T) = \dfrac{\hbar v}{k_B T} \): thermal coherence length
+- $$\( \alpha = \frac{1}{2} \left(K + \frac{1}{K}\right) - 1 \)$$
+- $$\( T_\phi = \dfrac{\hbar v}{k_B L} \)$$
+- $$\( \ell_\phi(T) = \dfrac{\hbar v}{k_B T} \)$$: thermal coherence length
 
 Entanglement entropy is computed using the conformal field theory expression for a 1D finite-T system.
 
 ---
-
-## 📁 Repository Contents
-
-
-
 ## Author
 Shiva Heidari – Theoretical physicist with expertise in topological quantum systems and quantum coherence.
-
----
-
