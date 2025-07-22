@@ -10,11 +10,11 @@ This repository contains the analytical modeling and numerical simulation of the
 
 ###  Physical System
 - A **2D topological superconductor (TSC)** with a central hole, forming a **ring-shaped helical edge channel**.
-- Spin-momentum locked edge states enable **AB interference** when magnetic flux \( \Phi \) threads the ring.
+- Spin-momentum locked edge states enable **AB interference** when magnetic flux $$\( \Phi \)$$ threads the ring.
 - Electron–electron interactions are described by a **Luttinger liquid (LL)** model.
 
 ### Theoretical Result
-The AB oscillation amplitude \( A(T) \) behaves as:
+The AB oscillation amplitude $$\( A(T) \)$$ behaves as:
 
 $$\
 A(T) \propto
