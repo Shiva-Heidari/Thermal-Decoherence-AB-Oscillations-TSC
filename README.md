@@ -16,13 +16,13 @@ This repository contains the analytical modeling and numerical simulation of the
 ### Theoretical Result
 The AB oscillation amplitude \( A(T) \) behaves as:
 
-\\[
+$$\\[
 A(T) \propto
 \begin{cases}
 \left( \dfrac{a}{L} \right)^\alpha & T \ll T_\phi \\\\
 \left( \dfrac{T}{T_\phi} \right)^\alpha \exp\left( -\alpha \dfrac{T}{T_\phi} \right) & T \gg T_\phi
 \end{cases}
-\\]
+\\]$$
 
 - \\( \alpha = \frac{1}{2} \left(K + \frac{1}{K}\right) - 1 \\)
 - \\( T_\phi = \dfrac{\hbar v}{k_B L} \\)
