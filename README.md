@@ -33,3 +33,4 @@ Entanglement entropy is computed using the conformal field theory expression for
 ---
 ## Author
 Shiva Heidari – Theoretical physicist with expertise in topological quantum systems and quantum coherence.
+This project was carried out in collaboration with experimentalists to provide a theoretical foundation for their observed phenomena.
