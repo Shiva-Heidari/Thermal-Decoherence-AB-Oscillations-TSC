@@ -14,9 +14,9 @@ This repository contains theoretical modeling and analysis supporting our study 
 ## Key Equations
 
 **Helical Luttinger Liquid Hamiltonian:**
-\\[
+$$\[
 H = \frac{\hbar \nu}{2\pi} \int_0^L dx \left[ K(\partial_x \theta)^2 + \frac{1}{K} (\partial_x \phi)^2 \right]
-\\]
+\]$$
 
 **Interaction parameter:**
 \\[
