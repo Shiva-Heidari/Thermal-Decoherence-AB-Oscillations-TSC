@@ -1,6 +1,6 @@
-# Thermal-Decoherence-AB-Oscillations-TSC
+# Decoherence-AB-Oscillations-TSC
 
-# Thermal Decoherence of Aharonov–Bohm Oscillations in a Topological Superconducting Ring
+# Decoherence of Aharonov–Bohm Oscillations in a Topological Superconducting Ring
 
 This repository contains the analytical modeling and numerical simulation of thermal dephasing in a 1D helical edge channel of a 2D topological superconductor threaded by magnetic flux. Using the Luttinger liquid formalism and bosonization, we derive the temperature dependence of the Aharonov–Bohm (AB) oscillation amplitude, thermal coherence length, and entanglement entropy.
 
