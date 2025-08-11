@@ -19,19 +19,19 @@ H = \frac{\hbar \nu}{2\pi} \int_0^L dx \left[ K(\partial_x \theta)^2 + \frac{1}{
 \]$$
 
 **Interaction parameter:**
-\\[
+$$\[
 \gamma = \frac{1}{2}\left(K + \frac{1}{K}\right) - 1
-\\]
+\]$$
 
 **AB amplitude at finite temperature:**
-\\[
+$$\[
 A_{AB}(T) = \frac{1}{2\pi \zeta} \left[ \frac{\pi \zeta k_B T}{\hbar \nu \sinh\left(\frac{\pi L k_B T}{\hbar \nu}\right)} \right]^\gamma
-\\]
+\]$$
 
 ## Physical Insights
-- **Non-interacting limit** (\(K=1, \gamma=0\)): AB amplitude is temperature-independent.
-- **Interacting regime**: Electron–electron interactions induce dephasing, leading to linear decay of \(A_{AB}(T)\) at \(T > T_L\) for weak interactions.
-- **Low-temperature regime** (\(T < T_L\)): AB amplitude saturates, reflecting maximal quantum coherence.
+- **Non-interacting limit** ($$\(K=1, \gamma=0\)$$): AB amplitude is temperature-independent.
+- **Interacting regime**: Electron–electron interactions induce dephasing, leading to linear decay of $$\(A_{AB}(T)\)$$ at $$\(T > T_L\)$$ for weak interactions.
+- **Low-temperature regime** ($$\(T < T_L\)$$): AB amplitude saturates, reflecting maximal quantum coherence.
 
 
 
