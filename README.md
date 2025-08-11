@@ -2,7 +2,10 @@
 
 # Aharonov–Bohm Interference in Fe(Te,Se) Superconducting Rings
 
-This repository contains theoretical modeling and analysis supporting our study on **Aharonov–Bohm (AB) interference from coherent spin-polarized edge transport in Fe(Te,Se) topological superconducting rings**. The model employs **helical Luttinger liquid (HLL) theory** to capture the interplay between magnetic flux, temperature, and electron–electron interactions in one-dimensional spin-polarized edge channels.
+This repository contains the **supplementary theoretical modeling and derivations** for our submitted paper:  
+**[Aharonov–Bohm interference from coherent spin-polarized edge transport in Fe(Te,Se) superconducting rings](https://arxiv.org/pdf/2508.05030)**.
+
+The work develops a **helical Luttinger liquid (HLL) framework** to describe interacting spin-polarized one-dimensional edge states in a topological superconductor ring geometry. The model captures the impact of **magnetic flux, finite temperature, and electron–electron interactions** on the quantum coherence of Aharonov–Bohm (AB) oscillations.
 
 ## Overview
 - **Framework:** Helical Luttinger liquid theory for interacting 1D fermions with spin–momentum locking.
